@@ -4,8 +4,7 @@
 
 
 
-# 💫 About Me:
-I am Kasthuri, an engineering professional passionate about *learning, innovation, and problem solving*.  <br>I have strong skills in *C++, C, Python, and Java* and enjoy tackling challenging problems.  <br>I have experience in *web development* and building projects that make an impact.  <br>I am constantly exploring new technologies and improving my programming expertise.  <br>I love collaborating, contributing to open source, and sharing knowledge with the community.<br>
+<center>I am Kasthuri, an engineering professional passionate about *learning, innovation, and problem solving*.  <br>I have strong skills in *C++, C, Python, and Java* and enjoy tackling challenging problems.  <br>I have experience in *web development* and building projects that make an impact.  <br>I am constantly exploring new technologies and improving my programming expertise.  <br>I love collaborating, contributing to open source, and sharing knowledge with the community.</center><br>
 
 
 ## 🌐 Socials:

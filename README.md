@@ -13,7 +13,9 @@
 
 <div align="center">
 
-Passionate learner and developer who loves building** full-stack web applications and solving complex problems.** Currently diving deep into JavaScript, HTML, CSS.** while strengthening my fundamentals in Java, Python and C to improve** problem-solving and algorithmic thinking.
+**Passionate learner and developer** who loves building **full-stack web apps**, exploring **DSA**, and working with **modern tech tools**.  
+ Currently diving deep into **JavaScript, React and MongoDB**, while also sharpening my **C++, Python, and Java** fundamentals for problem solving and algorithmic thinking.
+
 </div>
 
 

@@ -13,14 +13,7 @@
 
 ## 🎯 **Career Objective**
 
-Aspiring and passionate **Full Stack Developer** with strong fundamentals in programming and web development.  
-I aim to build clean, responsive, and user-friendly applications while continuously upgrading my skills to contribute effectively to a dynamic team.
-
----
-
-
-
----
+Passionate learner and developer who loves building full-stack web applications and solving complex problems. Currently diving deep into JavaScript, HTML, CSS. while strengthening my fundamentals in Java, Python, and C to improve problem-solving and algorithmic thinking.
 
 ## 💼 **Internship Experience**
 

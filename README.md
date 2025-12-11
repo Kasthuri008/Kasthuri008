@@ -15,6 +15,8 @@
 
 Passionate learner and developer who loves building full-stack web applications and solving complex problems. Currently diving deep into JavaScript, HTML, CSS. while strengthening my fundamentals in Java, Python, and C to improve problem-solving and algorithmic thinking.
 </div>
+
+
 ##  Technical Skills  
 
 <table align="center" width="100%">
@@ -22,7 +24,6 @@ Passionate learner and developer who loves building full-stack web applications 
     <th align="left">Programming Languages</th>
     <td>
       <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-      <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
       <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -44,7 +45,6 @@ Passionate learner and developer who loves building full-stack web applications 
     <td>
       <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
       <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-      <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white" />
       <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
     </td>
   </tr>
@@ -52,6 +52,15 @@ Passionate learner and developer who loves building full-stack web applications 
 </table>
 
 <br>
+##  DSA & Problem Solving Achievements
+
+###  **600+ Problems Solved Across Platforms**
+
+| Platform | Problems Solved | Max Rating |
+|----------|----------------|------------|
+| **LeetCode** | 65+ | 1457 |
+| **CodeChef** | 400+ | 1250 |
+| **GeeksForGeeks** | 65+ | - |
 
 
 ## 💼 **Internship Experience**

@@ -93,15 +93,31 @@
 ##  **Featured Projects**
 
 <div align="center">
-
+## Resume
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+A web application for creating professional resumes with a modern UI and easy-to-use interface.
+
+
 
 </div>
 
+<div align="center">
+ ## Simply Botique
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+A clean and stylish boutique website showcasing curated fashion collections with a modern UI, smooth navigation, and a seamless shopping experience.
+</div>
+ 
+<div align="center">
+##  Todo App  
+### Task Management Application  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+ 
+A simple and effective task management application that allows users to **add**, **edit**, **delete**, and **mark tasks as complete**. Designed for clean code, easy usage, and better productivity.
 
+</div>
 
-A modern and user-friendly web application for creating professional resumes with ease.  
-Features include a clean UI, real-time preview, and PDF download support.
 

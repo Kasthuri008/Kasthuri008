@@ -3,9 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0ea5e9&height=200&section=header&text=Kasthuri%20S&fontSize=55&fontColor=ffffff&animation=twinkling" />
 
 ### 💻 Full Stack Developer | Java Developer  
-📍 Coimbatore, Tamil Nadu  
-📧 **kit27.csbs28@gmail.com** | 📱 **+91 9597473779**  
-🌐 [GitHub](https://github.com/Kasthuri008) • [LinkedIn](https://www.linkedin.com/in/kasthuri)
+
 
 </div>
 
@@ -131,12 +129,12 @@ A simple and effective task management application that allows users to **add**,
 </div>
 
 ## **Currently learning**
-   Advanced React patterns and state management
-   Advanced Data Structures & Algorithms
-   Problem Solving techniques and optimization
-   Full-Stack Development best practices
+   Advanced React patterns and state management.<br>
+   Advanced Data Structures & Algorithms.<br>
+   Problem Solving techniques and optimization.<br>
+   Full-Stack Development best practices.<br>
 
-## **Connect With Me** 
+### **Connect With Me** 
 <p align="center">
   <a href="https://codolio.com/profile/kasthuri"><img src="https://img.icons8.com/color/48/000000/code.png" alt="Codolio"/></a>
   <a href="https://leetcode.com/u/user8879Yd/"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="LeetCode"/></a>

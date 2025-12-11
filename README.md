@@ -17,6 +17,20 @@ Passionate learner and developer who loves building full-stack web applications 
 </div>
 
 
+## Problem Solving Profiles  
+<p align="center">
+  <a href="https://codolio.com/profile/kasthuri">
+    <img src="https://img.shields.io/badge/Codolio-Profile-blue?style=for-the-badge&logo=coderwall&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/user8879Yd/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+  <a href="https://codolio.com/profile/kasthuri/problemSolving/codechef">
+    <img src="https://img.shields.io/badge/CodeChef-Profile-brown?style=for-the-badge&logo=codechef&logoColor=white" />
+  </a>
+</p>
+
+
 ##  Technical Skills  
 
 <table align="center" width="100%">
@@ -64,17 +78,15 @@ Passionate learner and developer who loves building full-stack web applications 
 | **GeeksForGeeks** | 65+ | - |
 
 
-## 💼 **Internship Experience**
+##  **Achievements**  
+  Solved 650+ problems** across platforms  
+  Maintained 25-day streak** in problem solving  
+  95+ Coding Contests** on CodeChef  
+  Active for 280+ days** consistently improving  
+  Consistency beats talent when talent doesn’t stay consistent.
 
-### **Web Development Intern — LearnLogicify Technologies**  
-📅 *May 2024 – June 2024*
 
-- Developed responsive UI using **HTML, CSS, JavaScript**.  
-- Built **Bouquet E-commerce Website** with product listings and mobile-friendly design.  
-- Created personal portfolio website to showcase skills and projects.  
-- Learned **Git & GitHub** — branching, commits, version control, & GitHub Pages deployment.
 
----
 
 ## 🚀 **Projects**
 

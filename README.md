@@ -18,13 +18,7 @@ I aim to build clean, responsive, and user-friendly applications while continuou
 
 ---
 
-## 🎓 **Education**
 
-| Qualification | Institution | Year | Score |
-|--------------|-------------|------|--------|
-| **B.Tech – KIT-Kalaignar Karunanidhi Institute of Technology** | Coimbatore | 2023–2027 | **8.38 CGPA (Upto 4th Sem)** |
-| **12th Standard** | Govt. Girls Hr. Sec. School, Erode | 2023 | **80%** |
-| **10th Standard** | Govt. Girls Hr. Sec. School, Erode | 2020 | **–** |
 
 ---
 

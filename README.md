@@ -129,10 +129,10 @@ A simple and effective task management application that allows users to **add**,
 </div>
 
 ## **Currently learning**
-   Advanced React patterns and state management.<br>
-   Advanced Data Structures & Algorithms.<br>
-   Problem Solving techniques and optimization.<br>
-   Full-Stack Development best practices.<br>
+   *Advanced React patterns and state management.<br>
+   *Advanced Data Structures & Algorithms.<br>
+   *Problem Solving techniques and optimization.<br>
+   *Full-Stack Development best practices.<br>
 
 ## **Connect With Me** 
 <p align="center">

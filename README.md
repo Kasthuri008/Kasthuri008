@@ -1,75 +1,120 @@
+<div align="center">
 
-![WhatsApp Image 2025-10-12 at 9 40 04 PM](https://github.com/user-attachments/assets/6d309539-5810-4c41-a71d-76b7591bb956)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0ea5e9&height=200&section=header&text=Kasthuri%20S&fontSize=55&fontColor=ffffff&animation=twinkling" />
 
+### 💻 Full Stack Developer | Java Developer  
+📍 Coimbatore, Tamil Nadu  
+📧 **kit27.csbs28@gmail.com** | 📱 **+91 9597473779**  
+🌐 [GitHub](https://github.com/Kasthuri008) • [LinkedIn](https://www.linkedin.com/in/kasthuri)
 
-
-
-
-<h1 align="center">Hi 👋, I'm Kasthuri S</h1>
-<h3 align="center">💻 Passionate Programmer | Python • Java • C | Web Developer | DSA Learner 🚀</h3>
-
----
-
-About Me  
--  Competitive Programmer who believes **“Starting late is better than never starting.”**  
--  Constantly improving problem-solving and coding consistency.  
--  Currently focusing on **Full Stack & Competitive Programming.**  
--  Languages I use: **Python | Java | C | HTML | CSS | JavaScript**  
--  Tools: **VS Code | Git | GitHub**
+</div>
 
 ---
 
- What I’m Doing  
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Competitive+Programmer;Full+Stack+Learner;Problem+Solving+Daily;572+Problems+Solved+🔥;Consistency+Wins+Always!&center=true&size=30&width=850&height=100&color=00C4FF" alt="Typing SVG"/>
+## 🎯 **Career Objective**
+
+Aspiring and passionate **Full Stack Developer** with strong fundamentals in programming and web development.  
+I aim to build clean, responsive, and user-friendly applications while continuously upgrading my skills to contribute effectively to a dynamic team.
 
 ---
 
- Problem Solving Profiles  
-<p align="center">
-  <a href="https://codolio.com/profile/kasthuri">
-    <img src="https://img.shields.io/badge/Codolio-Profile-blue?style=for-the-badge&logo=coderwall&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/u/user8879Yd/">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
-  </a>
-  <a href="https://codolio.com/profile/kasthuri/problemSolving/codechef">
-    <img src="https://img.shields.io/badge/CodeChef-Profile-brown?style=for-the-badge&logo=codechef&logoColor=white" />
-  </a>
-</p>
+## 🎓 **Education**
+
+| Qualification | Institution | Year | Score |
+|--------------|-------------|------|--------|
+| **B.Tech – KIT-Kalaignar Karunanidhi Institute of Technology** | Coimbatore | 2023–2027 | **8.38 CGPA (Upto 4th Sem)** |
+| **12th Standard** | Govt. Girls Hr. Sec. School, Erode | 2023 | **80%** |
+| **10th Standard** | Govt. Girls Hr. Sec. School, Erode | 2020 | **–** |
 
 ---
 
- Achievements  
-- Solved 572+ problems** across platforms  
-- Maintained 25-day streak** in problem solving  
-- 89+ Coding Contests** on CodeChef  
-- Active for 244 days** consistently improving  
-- “Consistency beats talent when talent doesn’t stay consistent.”  
+## 💼 **Internship Experience**
+
+### **Web Development Intern — LearnLogicify Technologies**  
+📅 *May 2024 – June 2024*
+
+- Developed responsive UI using **HTML, CSS, JavaScript**.  
+- Built **Bouquet E-commerce Website** with product listings and mobile-friendly design.  
+- Created personal portfolio website to showcase skills and projects.  
+- Learned **Git & GitHub** — branching, commits, version control, & GitHub Pages deployment.
 
 ---
 
-Connect With Me  
-<p align="center">
-  <a href="https://codolio.com/profile/kasthuri"><img src="https://img.icons8.com/color/48/000000/code.png" alt="Codolio"/></a>
-  <a href="https://leetcode.com/u/user8879Yd/"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="LeetCode"/></a>
-  <a href="https://codolio.com/profile/kasthuri/problemSolving/codechef"><img src="https://img.icons8.com/color/48/000000/codechef.png" alt="CodeChef"/></a>
-</p>
+## 🚀 **Projects**
+
+### 🌸 **Bouquet E-Commerce Website** — *HTML, CSS, JavaScript*
+✔ Responsive design  
+✔ Product listing pages  
+✔ Smooth user navigation  
 
 ---
 
-<h3 align="center">⚡ “Be consistent. Solve one problem a day — and greatness will follow.” ⚡</h3>
+### 📝 **To-Do List Application** — *HTML, CSS, JavaScript*
+✔ Add, delete, update tasks  
+✔ DOM manipulation  
+✔ Clean UI  
 
 ---
 
-
-
----
-
-[![](https://visitcount.itsvg.in/api?id=kasthuri008&icon=0&color=0)](https://visitcount.itsvg.in)
+### 🌐 **Personal Portfolio Website** — *HTML, CSS*
+✔ Fully responsive  
+✔ Showcases projects, skills & certifications  
 
 ---
 
-*“Code, Learn, Build, Repeat.”*  
+## 🛠️ **Technical Skills**
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### **Programming Languages**
+- Java  
+- C  
+- Python  
 
+### **Frontend**
+- HTML  
+- CSS  
+- JavaScript  
+
+### **Tools**
+- VS Code  
+- GitHub  
+- Excel  
+- Spyder  
+
+---
+
+## 📜 **Certifications**
+
+### **Infosys Springboard**
+- Python Foundation  
+- Java Foundation  
+
+### **NPTEL**
+- Data Science for Engineers  
+
+### **Coursera**
+- Get Started with Python  
+- Build a Website using WordPress  
+
+---
+
+## 🌐 **Languages**
+- Tamil — Native  
+- English — Proficient  
+- Telugu — Basic  
+
+---
+
+## 🎧 **Interests**
+- Music  
+- Movies  
+
+---
+
+## 🖋 **Declaration**
+I hereby declare that the above information is true to the best of my knowledge.
+
+<div align="right">
+  
+**— Kasthuri S, Coimbatore**
+
+</div>

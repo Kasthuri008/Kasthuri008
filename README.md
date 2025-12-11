@@ -87,84 +87,16 @@
   Active for 280+ days** consistently improving  
   Consistency beats talent when talent doesn’t stay consistent.
 
+##  **Featured Projects**
+
+### 🎯 GenReZume – Professional Resume Builder  
+**Tech Stack:** 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 
 
-## 🚀 **Projects**
+A modern and user-friendly web application for creating professional resumes with ease.  
+Features include a clean UI, real-time preview, and PDF download support.
 
-### 🌸 **Bouquet E-Commerce Website** — *HTML, CSS, JavaScript*
-✔ Responsive design  
-✔ Product listing pages  
-✔ Smooth user navigation  
-
----
-
-### 📝 **To-Do List Application** — *HTML, CSS, JavaScript*
-✔ Add, delete, update tasks  
-✔ DOM manipulation  
-✔ Clean UI  
-
----
-
-### 🌐 **Personal Portfolio Website** — *HTML, CSS*
-✔ Fully responsive  
-✔ Showcases projects, skills & certifications  
-
----
-
-## 🛠️ **Technical Skills**
-
-### **Programming Languages**
-- Java  
-- C  
-- Python  
-
-### **Frontend**
-- HTML  
-- CSS  
-- JavaScript  
-
-### **Tools**
-- VS Code  
-- GitHub  
-- Excel  
-- Spyder  
-
----
-
-## 📜 **Certifications**
-
-### **Infosys Springboard**
-- Python Foundation  
-- Java Foundation  
-
-### **NPTEL**
-- Data Science for Engineers  
-
-### **Coursera**
-- Get Started with Python  
-- Build a Website using WordPress  
-
----
-
-## 🌐 **Languages**
-- Tamil — Native  
-- English — Proficient  
-- Telugu — Basic  
-
----
-
-## 🎧 **Interests**
-- Music  
-- Movies  
-
----
-
-## 🖋 **Declaration**
-I hereby declare that the above information is true to the best of my knowledge.
-
-<div align="right">
-  
-**— Kasthuri S, Coimbatore**
-
-</div>

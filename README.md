@@ -11,9 +11,10 @@
 
 ---
 
-## 🎯 **Career Objective**
+<div align="center">
 
 Passionate learner and developer who loves building full-stack web applications and solving complex problems. Currently diving deep into JavaScript, HTML, CSS. while strengthening my fundamentals in Java, Python, and C to improve problem-solving and algorithmic thinking.
+</div>
 
 ## 💼 **Internship Experience**
 

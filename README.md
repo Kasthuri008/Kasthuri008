@@ -130,7 +130,6 @@ A clean and stylish boutique website showcasing curated fashion collections with
 <br>
  
 A simple and effective task management application that allows users to **add**, **edit**, **delete**, and **mark tasks as complete**. Designed for clean code, easy usage, and better productivity.
-
 </div>
 
 

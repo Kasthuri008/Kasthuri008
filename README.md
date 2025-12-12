@@ -7,7 +7,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FFF9E8&center=true&vCenter=true&width=600&lines=🚀+Passionate+Full-Stack+Developer;🚀+Building+Modern+Web+Applications;🚀+Always+Learning+New+Technologies" alt="Typing SVG" />
 
-![Profile Views](https://komarev.com/ghpvc/?username=Kasthuri008&color=FFFDD0&style=for-the-badge&label=Profile+Views&text=000000)
+![Profile Views](https://img.shields.io/badge/Profile%20Views-000000?style=for-the-badge&color=FFFDD0)
 ![GitHub Followers](https://img.shields.io/github/followers/Kasthuri008?style=for-the-badge&logo=github&color=FFFDD0&labelColor=000000)
 
 

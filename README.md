@@ -19,8 +19,12 @@
 
 <div align="center">
 
-**Passionate learner and developer** who loves building **full-stack web apps**, exploring **DSA**, and working with **modern tech tools**.  
- Currently diving deep into **JavaScript, React and MongoDB**, while also sharpening my **Java** fundamentals for problem solving and algorithmic thinking.
+## About Me
+
+I am a **passionate learner and developer** with a strong enthusiasm for building **full-stack web applications**. I enjoy exploring **data structures and algorithms (DSA)** to enhance my problem-solving and logical thinking skills.  
+
+I am actively working with modern web technologies, including **JavaScript, React, and MongoDB**, to create dynamic, responsive, and efficient applications. At the same time, I am honing my **Java fundamentals**, focusing on algorithmic thinking and clean coding practices, to strengthen my core programming skills and tackle complex challenges effectively.
+
 
 </div>
 

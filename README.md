@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=F3E5C8&height=200&section=header&text=Kasthuri%20S&fontSize=60&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20DSA%20Enthusiast&descAlignY=60&descAlign=50&fontColor=3b3b3b&animation=twinkling&stroke=F3E5C8&strokeWidth=2" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=C9A66B&height=200&section=header&text=Kasthuri%20S&fontSize=60&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20DSA%20Enthusiast&descAlignY=60&descAlign=50&fontColor=3b3b3b&animation=twinkling&stroke=C9A66B&strokeWidth=2" alt="Header" />
 
 
 

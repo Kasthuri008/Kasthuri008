@@ -100,6 +100,7 @@ I am currently focusing on building small projects to apply what I learn, and st
 
 <div align="center">
 600+ Problems Solved Across Platforms
+<br>
 
 <table>
   <tr>
@@ -129,10 +130,10 @@ I am currently focusing on building small projects to apply what I learn, and st
 
 
 ##  **Achievements**  
-  Solved 650+ problems** across platforms  
-  Maintained 25-day streak** in problem solving  
-  95+ Coding Contests** on CodeChef  
-  Active for 280+ days** consistently improving  
+  Solved 650+ problems across platforms  
+  Maintained 25-day streak in problem solving  
+  95+ Coding Contests on CodeChef  
+  Active for 280+ days consistently improving  
   Consistency beats talent when talent doesn’t stay consistent.
 
 

@@ -94,15 +94,38 @@ I am currently focusing on building small projects to apply what I learn, and st
 
 <br>
 
-##  DSA & Problem Solving Achievements
 
-###  **600+ Problems Solved Across Platforms**
+## DSA & Problem Solving Achievements
 
-| Platform | Problems Solved | Max Rating |
-|----------|----------------|------------|
-| **LeetCode** | 65+ | 1457 |
-| **CodeChef** | 400+ | 1250 |
-| **GeeksForGeeks** | 65+ | - |
+
+<div align="center">
+### **600+ Problems Solved Across Platforms**
+
+<table>
+  <tr>
+    <th>Platform</th>
+    <th>Problems Solved</th>
+    <th>Max Rating</th>
+  </tr>
+  <tr>
+    <td><b>LeetCode</b></td>
+    <td>65+</td>
+    <td>1457</td>
+  </tr>
+  <tr>
+    <td><b>CodeChef</b></td>
+    <td>400+</td>
+    <td>1250</td>
+  </tr>
+  <tr>
+    <td><b>GeeksForGeeks</b></td>
+    <td>65+</td>
+    <td>-</td>
+  </tr>
+</table>
+
+</div>
+
 
 
 ##  **Achievements**  

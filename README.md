@@ -141,7 +141,7 @@ A simple and effective task management application that allows users to **add**,
 <p align="center">
   <a href="https://codolio.com/profile/kasthuri"><img src="https://img.icons8.com/color/48/000000/code.png" alt="Codolio"/></a>
   <a href="https://leetcode.com/u/user8879Yd/"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="LeetCode"/></a>
-  <a href="https://codolio.com/profile/kasthuri/problemSolving/codechef"><img src="https://img.icons8.com/color/48/000000/codechef.png" alt="CodeChef"/></a>
+  <a href="https://www.codechef.com/users/kit27csbs28"><img src="https://img.icons8.com/color/48/000000/codechef.png" alt="CodeChef"/></a>
 </p>
 
 

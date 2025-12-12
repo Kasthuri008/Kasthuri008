@@ -28,7 +28,7 @@
   <a href="https://leetcode.com/u/user8879Yd/">
     <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
-  <a href="https://codolio.com/profile/kasthuri/problemSolving/codechef">
+  <a href="https://www.codechef.com/users/kit27csbs28">
     <img src="https://img.shields.io/badge/CodeChef-Profile-brown?style=for-the-badge&logo=codechef&logoColor=white" />
   </a>
 </p>

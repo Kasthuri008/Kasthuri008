@@ -21,10 +21,10 @@
 
 ## About Me
 
-I am a **passionate learner and developer** with a strong enthusiasm for building **full-stack web applications**. I enjoy exploring **data structures and algorithms (DSA)** to enhance my problem-solving and logical thinking skills.  
+Hi! I am Kasthuri S, a passionate learner and aspiring full-stack developer.
+I enjoy exploring web development, learning JavaScript, React, and MongoDB, and practicing data structures and algorithms (DSA) to improve my problem-solving skills.
 
-I am actively working with modern web technologies, including **JavaScript, React, and MongoDB**, to create dynamic, responsive, and efficient applications. At the same time, I am honing my **Java fundamentals**, focusing on algorithmic thinking and clean coding practices, to strengthen my core programming skills and tackle complex challenges effectively.
-
+I am currently focusing on building small projects to apply what I learn, and strengthening my core program in Java. I am eager to learn, grow, and contribute to real-world projects.
 
 </div>
 

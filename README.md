@@ -7,6 +7,11 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FFF9E8&center=true&vCenter=true&width=600&lines=🚀+Passionate+Full-Stack+Developer;🚀+Building+Modern+Web+Applications;🚀+Always+Learning+New+Technologies" alt="Typing SVG" />
 
+![Profile Views](https://komarev.com/ghpvc/?username=Kathuri008-V&color=FFD700&style=for-the-badge&label=Profile+Views)
+![GitHub Followers](https://img.shields.io/github/followers/Kasthuri008-V?style=for-the-badge&logo=github&color=FFD700&labelColor=000000&label=Followers)
+
+
+
 
 
 

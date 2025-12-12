@@ -72,11 +72,19 @@ I am actively working with modern web technologies, including **JavaScript, Reac
       <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
       </td>
   </tr>
-  <tr>
-    <th align="left">DataBase</th>
-    <td>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-      </td>
+ <tr>
+    <th align="left">Databases</th>
+    <td padding="10px">
+      <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="65px"/>
+    </td>
+  </tr>
+   <tr>
+    <th align="left">Tools</th>
+    <td padding="10px">
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="65px"/>
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="65px" />
+      <img src="https://img.shields.io/badge/VS%20Code-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white" height="65px" />
+    </td>
   </tr>
   
 

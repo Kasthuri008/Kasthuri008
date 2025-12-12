@@ -99,7 +99,7 @@ I am currently focusing on building small projects to apply what I learn, and st
 
 
 <div align="center">
-### **600+ Problems Solved Across Platforms**
+600+ Problems Solved Across Platforms
 
 <table>
   <tr>

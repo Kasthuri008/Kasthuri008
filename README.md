@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0ea5e9&height=200&section=header&text=Kasthuri%20S&fontSize=55&fontColor=ffffff&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=E6D8AD&height=200&section=header&text=Kasthuri%20S&fontSize=55&fontColor=3b3b3b&animation=twinkling" />
+
 
 ### 💻 Full Stack Developer | Java Developer  
 
